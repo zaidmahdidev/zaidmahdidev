@@ -1,72 +1,70 @@
-👨‍💻 Zaid Mahdi | Mobile Applications Developer
-🚀 Flutter Developer | UI/UX Designer | Problem Solver
-📍 Sanaa, Yemen
-📧 zaidmhdi33@gmail.com
-🔗 Portfolio | GitHub
+# 👋 Hi, I'm Zaid Mahdi!
 
-🚀 About Me
-مرحبًا، أنا زيد مهدي، مطور تطبيقات موبايل بخبرة +2 سنة في Flutter & Dart، متخصص في تصميم وتطوير تطبيقات ذات أداء عالي وتجربة مستخدم احترافية.
+🚀 **Mobile Applications Developer** | 🎨 **UI/UX Enthusiast** | 📍 **Sanaa, Yemen**
 
-💡 أسعى لبناء تطبيقات مبتكرة تعزز الإنتاجية، وتوفر حلولًا ذكية للتحديات المختلفة. لدي سجل حافل بإنجاز مشاريع ناجحة، بما في ذلك أنظمة إدارة الوقود والحليب، بالإضافة إلى تطبيقات خدمية وتعليمية منشورة على Google Play.
+Passionate about building innovative mobile solutions using Flutter. I specialize in crafting user-friendly applications that drive efficiency and enhance user experiences. 
 
-🎯 شغفي يتمحور حول تقديم تجارب برمجية استثنائية عبر تصميم واجهات احترافية وتحسين أداء التطبيقات باستخدام أحدث الأدوات والتقنيات.
+📫 **Contact Me:**
+[GitHub](https://github.com/zaidmahdidev) | [Portfolio](https://zaidmahdidev.github.io/portfolio/) | 📩 zaidmhdi33@gmail.com
 
-🔧 Tech Stack & Skills
-💻 Frameworks & Languages:
+---
 
+## 🔧 Tech Stack & Skills
 
+- **Mobile Development:** Flutter, Dart, Firebase, API Integration, State Management (BLoC)
+- **Design & UX:** UI/UX Design, Figma, Photoshop
+- **Database Management:** Hive, SQLite, SharedPreferences
+- **Version Control:** Git & GitHub
+- **Soft Skills:** Problem-Solving, Critical Thinking, Communication, Continuous Learning
 
+---
 
-🛠 Tools & DevOps:
+## 🚀 Featured Projects
 
+### **📌 Dairy Unit Management System**
+Comprehensive system for managing milk collection & distribution for the Ministry of Agriculture.
+- **Features:** Multi-stakeholder apps for tracking milk production, delivery, and quality control.
+- **Tech:** Flutter
+- **Outcome:** Improved transparency & operational efficiency.
 
+### **📌 Diesel Unit Management System**
+Mobile app for monitoring national fuel inventory and distribution.
+- **Features:** Real-time inventory tracking, station management, notifications.
+- **Tech:** Flutter
+- **Outcome:** Enhanced fuel distribution monitoring & efficiency.
 
+### **📌 Blood Donation App – "يلاهلاا ةطبار"**
+Connecting blood donors with recipients through a real-time donor directory.
+- **Features:** Search by blood type, real-time notifications, dark/light mode.
+- **Tech:** Flutter
+- **Outcome:** Faster response times in emergency situations.
 
-🎨 UI/UX & Design:
-🚀 واجهة مستخدم إبداعية
-📌 تجربة مستخدم احترافية
-✨ تحسين الأداء والتجاوب على جميع الأجهزة
+### **📌 Islamic App – "ركذ"**
+A comprehensive Islamic app featuring Quran reading, daily prayers, and supplications.
+- **Features:** Offline mode, Adhkar & Hadith collections, accurate Qibla direction.
+- **Tech:** Flutter
+- **Outcome:** Delivered an ad-free, seamless user experience.
 
-🤝 Soft Skills:
-✅ حل المشكلات
-✅ التفكير الإبداعي
-✅ التواصل الفعّال
-✅ إدارة الوقت والعمل الجماعي
+---
 
-🏆 Featured Projects
-🔥 Dairy Unit Management System
-📌 وصف: تطبيق إداري ذكي لإدارة وتحسين عمليات جمع وتوزيع الحليب عبر ثلاث منصات متكاملة.
-🛠 التقنيات: Flutter, Firebase
-🚀 النتيجة: تحسين كفاءة إدارة الإنتاجية والشفافية في سلسلة التوريد.
+## 📈 GitHub Stats & Activity
 
-🔥 Diesel Unit Management System
-📌 وصف: نظام متكامل لإدارة المخزون وتوزيع الوقود على مستوى وطني.
-🛠 التقنيات: Flutter, Database Management, State Management (BLoC)
-🚀 النتيجة: زيادة دقة البيانات وتحسين تخصيص الموارد للطاقة بشكل أفضل.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidmahdidev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidmahdidev&layout=compact&theme=radical)
 
-🔥 Blood Donation App – يلاهلاا ةطبار
-📌 وصف: تطبيق يربط بين المتبرعين بالدم والمحتاجين، مع إشعارات فورية وواجهة بحث متقدمة.
-🛠 التقنيات: Flutter, Firebase, Notification System
-🚀 النتيجة: تعزيز سرعة الوصول للمتبرعين وتقليل وقت الاستجابة لحالات الطوارئ.
+---
 
-🔥 Islamic App – ركذ
-📌 وصف: تطبيق شامل للقرآن الكريم مع ميزات مثل أذكار، حديث، اتجاه القبلة، دعم وضع عدم الاتصال.
-🛠 التقنيات: Flutter, Local Storage, Dark/Light Mode
-🚀 النتيجة: تحسين تجربة المستخدم وتوفير محتوى إسلامي سلس وسريع بدون إعلانات.
+## 🎯 Hobbies & Interests
 
-🔗 استكشف المزيد من مشاريعي على GitHub → GitHub Portfolio
+- **🚀 Software Development:** Building innovative applications and exploring new technologies.
+- **📖 Tech Reading:** Staying updated on the latest industry trends.
+- **🏃‍♂️ Sports:** Walking & jogging for a healthy lifestyle.
+- **💡 Competitive Programming:** Solving coding challenges to enhance problem-solving skills.
+- **🤝 Volunteering:** Engaging in community projects & tech initiatives.
 
-📊 GitHub Stats
+---
 
-
-📩 How to Reach Me
-📧 Email: zaidmhdi33@gmail.com
-🔗 Portfolio: zaidmahdidev.github.io/portfolio
-🐦 Twitter (اختياري إن وجد)
-💼 LinkedIn (اختياري إن وجد)
-
-🌟 "التكنولوجيا ليست مجرد كود، بل هي القدرة على حل المشكلات بطرق مبتكرة ومؤثرة!"
-
+🌟 **Let's connect and collaborate on exciting projects!** 🚀
 
 
 <picture>
