@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zaid Mahdi!
 
-🚀 **Mobile Applications Developer** | 🎨 **UI/UX Enthusiast** | 📍 **Sanaa, Yemen**
+🚀 **Mobile Applications Developer** 
 
 Passionate about building innovative mobile solutions using Flutter. I specialize in crafting user-friendly applications that drive efficiency and enhance user experiences. 
 
@@ -53,6 +53,10 @@ A comprehensive Islamic app featuring Quran reading, daily prayers, and supplica
 - **🏃‍♂️ Sports:** Walking & jogging for a healthy lifestyle.
 - **💡 Competitive Programming:** Solving coding challenges to enhance problem-solving skills.
 - **🤝 Volunteering:** Engaging in community projects & tech initiatives.
+
+---
+
+🌟 Let's collaborate on innovative mobile solutions and build something amazing! 🚀
 
 ---
 
