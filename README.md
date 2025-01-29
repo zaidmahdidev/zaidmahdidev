@@ -1,16 +1,53 @@
-## Hi there 👋
+🚀 Zaid Mahdi | Mobile Applications Developer
+📍 Sanaa, Yemen | 📞 (967) 774814210 | ✉️ zaidmhdi33@gmail.com
+🔗 GitHub | 🌐 Portfolio
 
-<!--
-**zaidmahdidev/zaidmahdidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me
+I am a Mobile Applications Developer with 2+ years of experience in building and deploying Flutter applications. My expertise lies in developing scalable and efficient mobile solutions to enhance operational efficiency. I have successfully worked on projects for the Ministry of Agriculture and developed various apps, including Diesel Management System, Dairy Management System, Blood Donation App, and more.
 
-Here are some ideas to get you started:
+🔥 Tech Stack & Skills
+🚀 Languages & Frameworks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+💾 Databases:
+
+
+
+🛠 Tools & DevOps:
+
+
+
+🌱 Soft Skills:
+
+📌 Problem-Solving
+⚡ Fast Learner
+🛠 Creative Thinking
+🔍 Attention to Detail
+🤝 Communication & Collaboration
+💼 Featured Projects
+🔹 Dairy Unit Management System
+📌 Description: A mobile system for the Ministry of Agriculture that tracks milk production and distribution across different stakeholders.
+🛠 Tech Stack: Flutter, Firebase
+🚀 Outcome: Increased transparency in supply chain operations.
+
+🔹 Diesel Unit Management System
+📌 Description: A Flutter-based app managing fuel inventory for Agricultural and Fisheries Investment Authority.
+🛠 Tech Stack: Flutter, Database Management
+🚀 Outcome: Successfully implemented nationwide to optimize distribution.
+
+🔹 Blood Donation App
+📌 Description: An app connecting blood donors with patients in need, featuring real-time notifications and search by blood type.
+🛠 Tech Stack: Flutter, Firebase, Notifications
+🚀 Outcome: Enhanced efficiency in emergency response for blood donations.
+
+🔗 See more projects on my GitHub: GitHub Portfolio
+
+📊 GitHub Stats
+
+
+📢 How to Reach Me
+🔗 Portfolio: zaidmahdidev.github.io/portfolio
+📧 Email: zaidmhdi33@gmail.com
+🌍 LinkedIn (optional, if available)
