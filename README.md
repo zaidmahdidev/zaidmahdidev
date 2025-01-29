@@ -53,9 +53,11 @@ A comprehensive Islamic app featuring Quran reading, daily prayers, and supplica
 - **🏃‍♂️ Sports:** Walking & jogging for a healthy lifestyle.
 - **💡 Competitive Programming:** Solving coding challenges to enhance problem-solving skills.
 - **🤝 Volunteering:** Engaging in community projects & tech initiatives.
+##
 
 
 
+###
 🌟 Let's collaborate on innovative mobile solutions and build something amazing! 🚀
 
 ---
