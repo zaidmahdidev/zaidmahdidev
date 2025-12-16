@@ -38,6 +38,15 @@ Connecting blood donors with recipients through a real-time donor directory.
 - **Features:** Search by blood type, real-time notifications, dark/light mode.
 - **Tech:** Flutter
 - **Outcome:** Faster response times in emergency situations.
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.zaid.mathbah_app&pcampaignid=web_share" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"
+      alt="Get it on Google Play"
+    />
+  </a>
+</p>
+
 
 ### **📌 Islamic App – "ذكر"**
 A comprehensive Islamic app featuring Quran reading, daily prayers, and supplications.
